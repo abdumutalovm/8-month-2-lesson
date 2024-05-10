@@ -80,6 +80,8 @@ function Main() {
             showTextArea: showTextArea,
             sms: sms
         }
+
+
         console.log('Forma Malumotlari', formData);
     }
 
